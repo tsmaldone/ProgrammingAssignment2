@@ -10,7 +10,7 @@
 # This is the companion routine to cacheSolve
 #
 # Tony Smaldone
-# February 18, 2015
+# May 18, 2015
 #
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -62,7 +62,7 @@ makeCacheMatrix <- function(x = matrix()) {
 # This is the companion routine to makeCacheMatrix
 #
 # Tony Smaldone
-# February 18, 2015
+# May 18, 2015
 #
 
 cacheSolve <- function(x, ...) {
